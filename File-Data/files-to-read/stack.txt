@@ -1,0 +1,84 @@
+
+Linux (Operating System)
+Apache (Web Server)
+MySQL (Database)
+PHP (Server-Side Scripting Language)
+MEAN Stack:
+MongoDB (Database)
+Express.js (Web Application Framework for Node.js)
+Angular (Frontend JavaScript Framework)
+Node.js (JavaScript Runtime)
+MERN Stack:
+MongoDB (Database)
+Express.js (Web Application Framework for Node.js)
+React (Frontend JavaScript Library)
+Node.js (JavaScript Runtime)
+Django Stack:
+Django (Python Web Framework)
+PostgreSQL (Database)
+Nginx or Apache (Web Server)
+Ruby on Rails Stack:
+Ruby on Rails (Ruby Web Framework)
+PostgreSQL (Database)
+Nginx or Apache (Web Server)
+Java Spring Stack:
+Java (Programming Language)
+Spring Framework (Java Framework)
+Hibernate (Object-Relational Mapping)
+Tomcat (Java Servlet Container)
+.NET Stack:
+C# (Programming Language)
+ASP.NET (Web Framework)
+Entity Framework (Object-Relational Mapping)
+SQL Server (Database)
+MVC Stack:
+Model-View-Controller (Design Pattern)
+React Native Stack:
+React Native (JavaScript Framework for Mobile App Development)
+Node.js (JavaScript Runtime)
+Redux (State Management)
+Swift/iOS Stack:
+Swift (Programming Language)
+Xcode (Integrated Development Environment)
+UIKit (User Interface Framework)
+CoreData (Data Storage)
+Kotlin/Android Stack:
+Kotlin (Programming Language)
+Android Studio (Integrated Development Environment)
+Android SDK (Software Development Kit)
+SQLite (Database)
+AngularJS Stack:
+AngularJS (JavaScript Framework)
+Bootstrap (Frontend Framework)
+Node.js (JavaScript Runtime)
+Vue.js Stack:
+Vue.js (JavaScript Framework)
+Vuex (State Management)
+Vue Router (Routing)
+Docker Stack:
+Docker (Containerization)
+Kubernetes (Container Orchestration)
+Docker Compose (Tool for defining and running multi-container Docker applications)
+Serverless Stack:
+AWS Lambda, Azure Functions, or Google Cloud Functions (Serverless Compute)
+AWS API Gateway, Azure API Management, or Google Cloud Endpoints (API Management)
+GraphQL Stack:
+GraphQL (Query Language for APIs)
+Apollo Server (GraphQL Server)
+Apollo Client (GraphQL Client)
+JAMstack:
+JavaScript (for dynamic functionalities)
+APIs (for server-side functionalities)
+Markup (static pre-built pages)
+ELK Stack:
+Elasticsearch (Search and Analytics Engine)
+Logstash (Log Data Processing)
+Kibana (Data Visualization)
+Big Data Stack:
+Apache Hadoop (Distributed Storage and Processing)
+Apache Spark (Distributed Data Processing)
+Apache Kafka (Distributed Streaming Platform)
+TensorFlow Stack:
+TensorFlow (Machine Learning Framework)
+Keras (Neural Networks Library)
+Python (Programming Language)

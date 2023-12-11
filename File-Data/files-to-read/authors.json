@@ -1,0 +1,28 @@
+{
+	"authors": {
+		"domain": [
+			{
+				"name": "AWS"
+			},
+			{
+				"name": "Python"
+			},
+			{
+				"name": "SQLlite"
+			},
+			{
+				"name": "Java"
+			},
+			{
+				"name": "SQLlite"
+			},
+			{
+				"name": "Linux"
+			},
+			{
+				"name": "Bash"
+			}
+		],
+		"name": "George Estellore"
+	}
+}
