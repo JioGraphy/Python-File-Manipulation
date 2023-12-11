@@ -6,8 +6,8 @@ repetitive day to day tasks.
 ## Table of Contents
 
 - [Programs]
-  - [M2](#Finding Files)
-  - [M3] (#Working with Files and Folders)
-  - [M4] (#Archiving Files)
-  - [M5] (#Reading and Writing Files)
-  - [File Data](# Consists of dummy data and files.)
+  - [M2] Finding Files
+  - [M3] Working with Files and Folders
+  - [M4] Archiving Files
+  - [M5] Reading and Writing Files
+  - [File Data] Consists of dummy data and files
